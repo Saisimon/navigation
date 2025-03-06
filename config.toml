@@ -1,4 +1,4 @@
-baseURL               = "http://nav.acoi.top/"
+baseURL               = "https://nav.acoi.top/"
 languageCode          = "zh-CN"
 title                 = "奥创学堂网址导航"
 theme                 = "WebStack-Hugo"
