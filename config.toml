@@ -32,16 +32,16 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = ""
 
 [params.images]
-    favicon           = "assets/images/bi-favicon.png"
+    favicon           = "assets/images/奥-源样明宋体Heavy-无底蓝字.png"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
-    logoExpandLight   = "assets/images/bi-expand-dark.png"
-    logoExpandDark    = "assets/images/bi-expand-light.png"
-    logoCollapseLight = "assets/images/bi.png"
-    logoCollapseDark  = "assets/images/bi.png"
+    logoExpandLight   = "assets/images/奥创学堂-源样明宋体Heavy-无底蓝字.png"
+    logoExpandDark    = "assets/images/奥创学堂-源样明宋体Heavy-无底白字.png"
+    logoCollapseLight = "assets/images/奥-源样明宋体Heavy-无底蓝字.png"
+    logoCollapseDark  = "assets/images/奥-源样明宋体Heavy-无底白字.png"
     
 [markup.goldmark.renderer]
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：official@ultraoi.cn <br/>&copy; 2021 - {year} By 奥创学堂| [粤ICP备2024325364号-1](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：official@ultraoi.cn <br/>&copy; {year} By 奥创学堂| [粤ICP备2024325364号-1](http://beian.miit.gov.cn/)<br/>'

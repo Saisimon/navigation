@@ -1,0 +1,23 @@
+---
+
+- taxonomy: AI应用合集
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: AI对话聊天
+      links:
+        - title: DeepSeek
+          url: https://chat.deepseek.com/
+          logo: deepseek-chat-icon.png
+          description: 幻方量化旗下深度求索推出的开源大模型和聊天助手。
+        - title: Kimi智能助手
+          url: https://kimi.moonshot.cn/
+          logo: kimi-ai-logo.png
+          description: 深入精读多个页面，能高效生成PPT。
+        - title: 豆包
+          url: https://www.doubao.com/chat
+          logo: doubao-icon.png
+          description: 字节跳动官方的AI智能助手。
+        - title: ChatGPT
+          url: https://chatgpt.com/
+          logo: chatgpt-icon.png
+          description: OpenAI旗下的AI工具。
