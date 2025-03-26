@@ -1,6 +1,5 @@
 ---
 
-
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
@@ -10,7 +9,7 @@
     description: 幻方量化旗下深度求索推出的开源大模型和聊天助手
   - title: 豆包
     logo: doubao-icon.png
-    url: http://dis.haodxi.cn/dbff/dbaiboa2.html
+    url: https://www.doubao.com/chat/
     description: 字节跳动推出的免费AI智能助手
   - title: Kimi智能助手
     logo: kimi-ai-logo.png
@@ -26,7 +25,7 @@
     description: 免费全能的AI助手，支持AI绘画、视频生成
   - title: 讯飞星火
     logo: xunfei-xinghuo-logo.png
-    url: https://ai-bot.cn/xinghuo-xfyun
+    url: https://xinghuo.xfyun.cn/desk
     description: 科大讯飞推出的AI智能助手
   - title: 腾讯元宝
     logo: tencent-yuanbao-icon.png
@@ -46,7 +45,7 @@
     description: OpenAI旗下AI对话工具
   - title: Claude
     logo: anthropic-icon.png
-    url: https://claude.ai/login
+    url: https://claude.ai/
     description: ChatGPT的最为有力的竞争对手之一
   - title: Gemini
     logo: googel-gemini-app-icon.webp
@@ -54,7 +53,7 @@
     description: Google推出的AI聊天对话机器人Gemini
   - title: 问小白
     logo: wenxiaobai-logo.png
-    url: https://wenxiaobai.paluai.com/aibot
+    url: https://www.wenxiaobai.com/chat/tourist
     description: 元石科技推出的AI智能助手，支持DeepSeek满血版
   - title: Qwen Chat
     logo: tongyi-icon.png
@@ -344,7 +343,7 @@
     description: AI绘画模型社区和在线生图平台
   - title: 绘蛙
     logo: ihuiwa-icon.png
-    url: https://ihuiwa.paluai.com/aibot
+    url: https://www.ihuiwa.com/index
     description: AI电商营销工具，免费生成商品图和种草文案
   - title: 美间AI商拍
     logo: meijian-e-commerce-logo.png
@@ -1026,7 +1025,7 @@
   links:
   - title: 绘蛙
     logo: ihuiwa-icon.png
-    url: https://ihuiwa.paluai.com/aibot
+    url: https://www.ihuiwa.com/workspace/ai-image/flat-lay
     description: AI电商营销工具，免费生成商品图和种草文案
   - title: 美间AI商拍
     logo: meijian-e-commerce-logo.png
@@ -1863,10 +1862,6 @@
 - taxonomy: AI设计工具
   icon: fas fa-palette
   links:
-  - title: 绘蛙
-    logo: ihuiwa-icon.png
-    url: https://ihuiwa.paluai.com/aibot
-    description: AI电商营销工具，免费生成商品图和种草文案
   - title: 美间AI
     logo: meijian-icon.png
     url: https://www.meijian.com/e-commerce
@@ -2549,7 +2544,7 @@
   links:
   - title: Coze
     logo: coze-ai-icon.png
-    url: http://dis.csqixiang.cn/unpo/cozeaibot.html
+    url: https://www.coze.com/
     description: 海量AI智能体免费用，已接入DeepSeek满血版
   - title: SiliconFlow
     logo: SILICONFLOW-logo.png
@@ -2698,10 +2693,6 @@
 - taxonomy: AI训练模型
   icon: fas fa-cubes
   links:
-  - title: Coze
-    logo: coze-ai-icon.png
-    url: http://dis.csqixiang.cn/unpo/cozeaibot.html
-    description: 海量AI智能体免费用，已接入DeepSeek满血版
   - title: Ollama
     logo: ollama-icon.png
     url: https://ollama.ai/
