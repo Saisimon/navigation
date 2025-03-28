@@ -1,5 +1,48 @@
 ---
 
+- taxonomy: 章老师精选
+  icon: fas fa-star
+  links:
+  - title: 奥创学堂
+    logo: 奥-源样明宋体Heavy-无底蓝字.png
+    url: https://appxmxrb20i9342.h5.xiaoeknow.com/
+    description: 章老师的AI学习平台
+  - title: DeepSeek
+    logo: deepseek-chat-icon.png
+    url: https://www.deepseek.com/
+    description: 幻方量化旗下深度求索推出的开源大模型和聊天助手
+  - title: WPS AI
+    logo: wps-ai-white-icon.png
+    url: https://ai.wps.cn/
+    description: WPS推出的AI办公助手，已免费开放
+  - title: Kimi智能助手
+    logo: kimi-ai-logo.png
+    url: https://kimi.moonshot.cn/
+    description: 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手
+  - title: ProcessOn
+    logo: processon-icon.png
+    url: https://www.processon.com/
+    description: 在线AI流程图和思维导图制作工具
+  - title: Xmind Copilot
+    logo: xmind-icon.png
+    url: https://xmind.ai/
+    description: Xmind AI思维导图助手
+  - title: 通义听悟
+    logo: tingwu-icon.png
+    url: https://tingwu.aliyun.com/
+    description: 阿里推出的AI会议转录工具，万语千言，心领神悟
+  - title: 飞书妙记
+    logo: feishu-minutes-icon.png
+    url: https://www.feishu.cn/product/minutes
+    description: 飞书智能会议纪要和快捷语音识别转文字
+  - title: 即梦
+    logo: jimeng-logo-1.png
+    url: https://jimeng.jianying.com/ai-tool/home
+    description: 抖音旗下免费AI图片创作工具
+  - title: 豆绘AI
+    logo: douhuiai-logo-1.png
+    url: https://www.douhuiai.com/
+    description: AI绘图设计平台，一键生成720°VR全景图
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
@@ -337,10 +380,6 @@
 - taxonomy: 常用AI图像工具
   icon: fas fa-images
   links:
-  - title: 吐司AI
-    logo: tusiart-logo.png
-    url: https://tusiart.paluai.com/tusi
-    description: AI绘画模型社区和在线生图平台
   - title: 绘蛙
     logo: ihuiwa-icon.png
     url: https://www.ihuiwa.com/index
@@ -355,7 +394,7 @@
     description: 一站式AI设计工具集，免费AI绘图、图片转AI绘画、AI抠图消除
   - title: 即梦
     logo: jimeng-logo-1.png
-    url: https://jimeng.paluai.com/ai-tool
+    url: https://jimeng.jianying.com/ai-tool/home
     description: 抖音旗下免费AI图片创作工具
   - title: 笔魂AI绘画
     logo: ibihun-logo-1.png
@@ -508,13 +547,9 @@
 - taxonomy: AI图片插画生成
   icon: fas fa-image
   links:
-  - title: 吐司AI
-    logo: tusiart-logo.png
-    url: https://tusiart.paluai.com/tusi
-    description: AI绘画模型社区和在线生图平台
   - title: 即梦
     logo: jimeng-logo-1.png
-    url: https://jimeng.paluai.com/ai-tool
+    url: https://jimeng.jianying.com/ai-tool/home
     description: 抖音旗下免费AI图片创作工具
   - title: Midjourney
     logo: midjourney-icon.png
@@ -1107,7 +1142,7 @@
   links:
   - title: 白日梦
     logo: aibrm-icon.png
-    url: https://aibrm.paluai.com/bairimeng
+    url: https://aibrm.com/
     description: AI视频创作平台，最长可生成六分钟的视频
   - title: 绘蛙AI视频
     logo: ihuiwa-icon.png
@@ -1298,7 +1333,7 @@
     description: AI幻灯片演示生成工具
   - title: 清言PPT
     logo: qingyan-ppt-logo.jpg
-    url: https://chatglm.paluai.com/qingyan
+    url: https://chatglm.cn/main/gdetail/670e3c3e119b48fe5a851149?lang=zh
     description: 智谱清言联合AiPPT推出的PPT生成智能体
   - title: 咔片PPT
     logo: cappt-logo-1.png
@@ -2031,7 +2066,7 @@
   links:
   - title: Trae
     logo: trae-logo.png
-    url: https://trae.paluai.com/trae
+    url: https://www.trae.com.cn/home
     description: 字节跳动推出的免费AI编程工具，基于Claude模型
   - title: 通义灵码
     logo: tongyi-lingma-icon-1.png
@@ -2039,7 +2074,7 @@
     description: 阿里推出的免费AI编程工具，基于通义大模型
   - title: 豆包MarsCode
     logo: marscode-icon.png
-    url: https://marscode.paluai.com/doubao
+    url: https://www.marscode.cn/
     description: 免费AI编程助手，DeepSeek满血版模型
   - title: 文心快码
     logo: comate-baidu-logo.png

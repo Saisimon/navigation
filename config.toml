@@ -33,8 +33,8 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/奥-源样明宋体Heavy-无底蓝字.png"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/bg-space.png"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg-space.png"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/奥创学堂-源样明宋体Heavy-无底蓝字.png"
     logoExpandDark    = "assets/images/奥创学堂-源样明宋体Heavy-无底白字.png"
     logoCollapseLight = "assets/images/奥-源样明宋体Heavy-无底蓝字.png"
