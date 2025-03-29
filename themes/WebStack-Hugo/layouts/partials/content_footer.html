@@ -7,10 +7,10 @@
                 <!-- <a href="javascript:" data-toggle="modal" data-target="#search-modal" class="btn rounded-circle m-1"
                     rel="search" one-link-mark="yes">
                     <i class="iconfont icon-search"></i>
-                </a>
-                <a href="https://www.yuque.com/shenweiyan" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
-                    <i class="mode-ico iconfont icon-qq"></i>
                 </a> -->
+                <a href="javascript:" data-toggle="modal" data-target="#qrcode-modal" class="btn rounded-circle kefu m-1" rel="qrcode" one-link-mark="yes">
+                    <i class="mode-ico iconfont icon-wechat"></i>
+                </a>
                 <!-- 右下角搜索 end -->
                 {{ if $.Site.Params.nightMode }} 
                 <a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'" class="btn rounded-circle switch-dark-mode m-1" id="yejian"
@@ -23,6 +23,17 @@
                     <i class="mode-ico iconfont icon-night"></i>
                 </a>
                 {{ end }}
+            </div>
+            <div class="s-search-inner" style="margin-bottom: 10px;margin-top: -30px;">
+                <div class="s-search-header">
+                    <h6 class="text-center">识别下方二维码联系我</h6>
+                </div>
+                <div class="s-search-body" style="margin: auto;text-align: center;">
+                    <img src="{{ absURL $.Site.Params.images.qrcode }}" alt="企业微信二维码" style="width: 150px;height: 150px;" />
+                </div>
+                <div class="s-search-footer" style="margin-top: 5px;">
+                    <p class="text-center">为您提供更多AI服务</p>
+                </div>
             </div>
             <div class="footer-inner">
                 <div class="footer-text">{{ replace $.Site.Params.footer.copyright "{year}" now.Year | markdownify }}</div>

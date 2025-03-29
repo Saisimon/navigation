@@ -39,6 +39,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     logoExpandDark    = "assets/images/奥创学堂-源样明宋体Heavy-无底白字.png"
     logoCollapseLight = "assets/images/奥-源样明宋体Heavy-无底蓝字.png"
     logoCollapseDark  = "assets/images/奥-源样明宋体Heavy-无底白字.png"
+    qrcode            = "assets/images/导航活码.png"
     
 [markup.goldmark.renderer]
     unsafe = true

@@ -449,6 +449,12 @@
 				</ul>
 			    </li>
 			
+            <li>
+                <a href="javascript:" data-toggle="modal" data-target="#qrcode-modal" rel="qrcode">
+                    <i class="fa fa-user fa-lg mr-2"></i>
+                    <span>联系我们</span>
+                </a>
+            </li>
 			</ul>
 
                         
@@ -24317,6 +24323,9 @@
                 </a>
                 
                 
+                <a href="javascript:" data-toggle="modal" data-target="#qrcode-modal" class="btn rounded-circle kefu m-1" rel="qrcode" one-link-mark="yes">
+                    <i class="mode-ico iconfont icon-wechat"></i>
+                </a>
                 
                 
 		<a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'" class="btn rounded-circle switch-dark-mode m-1" id="yejian"
@@ -24324,6 +24333,17 @@
                     <i class="mode-ico iconfont icon-night"></i>
                 </a>
                 
+            </div>
+            <div class="s-search-inner" style="margin-bottom: 10px;margin-top: -30px;">
+                <div class="s-search-header">
+                    <h6 class="text-center">识别下方二维码联系我</h6>
+                </div>
+                <div class="s-search-body" style="margin: auto;text-align: center;">
+                    <img src="https://nav.acoi.top/assets/images/%E5%AF%BC%E8%88%AA%E6%B4%BB%E7%A0%81.png" alt="企业微信二维码" style="width: 150px;height: 150px;" />
+                </div>
+                <div class="s-search-footer" style="margin-top: 5px;">
+                    <p class="text-center">为您提供更多AI服务</p>
+                </div>
             </div>
             <div class="footer-inner">
                 <div class="footer-text">本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：official@ultraoi.cn <br/>© 2025 By 奥创学堂| <a href="http://beian.miit.gov.cn/">粤ICP备2024325364号-1</a><br/></div>
@@ -24333,6 +24353,30 @@
 </div>
 
 
+<div class="modal fade search-modal" id="qrcode-modal">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="qrcode" class="s-search mx-auto my-4">
+                    <div class="s-search-inner">
+                        <div class="s-search-header">
+                            <h5 class="text-center">识别下方二维码联系我</h5>
+                        </div>
+                        <div class="s-search-body" style="margin: auto;text-align: center;">
+                            <img src="https://nav.acoi.top/assets/images/%E5%AF%BC%E8%88%AA%E6%B4%BB%E7%A0%81.png" alt="企业微信二维码" style="width: 250px;height: 250px;" />
+                        </div>
+                        <div class="s-search-footer" style="margin-top: 5px;">
+                            <p class="text-center">为您提供更多AI服务</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="position: absolute;bottom: -40px;width: 100%;text-align: center;">
+                <a href="javascript:" data-dismiss="modal"><i class="iconfont icon-close-circle icon-2x" style="color: #fff;"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <script type='text/javascript' src='https://nav.acoi.top/assets/js/jquery.ui.touch-punch.min-0.2.2.js' id='jqueryui-touch-js'></script>
