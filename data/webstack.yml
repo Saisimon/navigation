@@ -3,10 +3,10 @@
 - taxonomy: 章老师精选
   icon: fas fa-star
   links:
-  - title: 奥创学堂
-    logo: 奥-源样明宋体Heavy-无底蓝字.png
-    url: https://appxmxrb20i9342.h5.xiaoeknow.com/
-    description: 章老师的AI学习平台
+  # - title: 奥创学堂
+  #   logo: 奥-源样明宋体Heavy-无底蓝字.png
+  #   url: https://appxmxrb20i9342.h5.xiaoeknow.com/
+  #   description: 章老师的AI学习平台
   - title: DeepSeek
     logo: deepseek-chat-icon.png
     url: https://www.deepseek.com/
