@@ -47,6 +47,10 @@
     logo: douhuiai-logo-1.png
     url: https://www.douhuiai.com/
     description: AI绘图设计平台，一键生成720°VR全景图
+  - title: Chatbox AI
+    logo: chatboxai-logo.png
+    url: https://chatboxai.app/zh
+    description: 开源的AI客户端助手，支持多种主流AI模型
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
