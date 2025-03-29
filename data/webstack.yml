@@ -142,26 +142,6 @@
     logo: character-ai-icon.png
     url: https://character.ai/
     description: 创建虚拟角色并与其对话
-  - title: J1 Assistant
-    logo: J1-Assistant-logo.png
-    url: https://matter.ai/
-    description: 罗永浩旗下 Jarvis 项目推出的 AI 智能助手
-  - title: Meta AI助手
-    logo: imagine-with-meta.png
-    url: https://www.meta.ai/
-    description: Meta推出的免费AI聊天助手
-  - title: Bing新必应
-    logo: new-bing-icon.png
-    url: https://copilot.microsoft.com/
-    description: 微软推出的新版结合了ChatGPT功能的必应
-  - title: Koko AI
-    logo: Koko-ai-logo.png
-    url: https://www.seeles.ai/
-    description: Seele公司推出的「AI+3D」情感陪伴产品
-  - title: Ohai
-    logo: ohai-icon.png
-    url: https://beta.ohai.bot/discover
-    description: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用
   - title: Me.bot
     logo: 460x0w.webp
     url: https://www.me.bot/
@@ -202,10 +182,6 @@
     logo: taichu-ai-icon.png
     url: https://taichu-web.ia.ac.cn/#/welcome
     description: 中科院与武智院推出的千亿参数全模态大模型和助手
-  - title: 小黄蕉
-    logo: chatwiz-icon.png
-    url: https://chatwiz.cn/h5/feely
-    description: 字节跳动旗下推出的AI虚拟交友聊天平台
   - title: 冒泡鸭
     logo: maopaoya-icon.png
     url: https://maopaoya.com/
@@ -253,14 +229,6 @@
     logo: notion-ai-icon.png
     url: https://www.notion.com/
     description: Notion推出的AI内容创作助手
-  - title: 稿易AI论文
-    logo: gaoyiai-logo.png
-    url: https://gaoyiai.com/
-    description: AI论文写作助手，免费生成2000字大纲
-  - title: 千笔AI论文
-    logo: aipaperpass-icon.png
-    url: https://www.aipaperpass.com
-    description: 全网首家论文无限改稿平台
   - title: 66AI论文
     logo: 66aipaper-website.png
     url: https://www.66paper.cn/
@@ -357,10 +325,6 @@
     logo: wenzhuangyuan-logo.png
     url: https://www.wenzhuangyuan.cn/workspace/writing-store
     description: AI公文写作助手，提供大量范文库
-  - title: 晓语台
-    logo: xiaoyutai-icon.png
-    url: https://www.xiaoyutai.com/
-    description: 智能AI写作工具，内置500+创作模板
   - title: Writesonic
     logo: writesonic-icon.png
     url: https://app.writesonic.com
@@ -385,173 +349,6 @@
     logo: quark-creator-logo.png
     url: https://vt.quark.cn/blm/creator-773/index
     description: 夸克推出的AI写作工具
-- taxonomy: 常用AI图像工具
-  icon: fas fa-images
-  links:
-  - title: 绘蛙
-    logo: ihuiwa-icon.png
-    url: https://www.ihuiwa.com/index
-    description: AI电商营销工具，免费生成商品图和种草文案
-  - title: 美间AI商拍
-    logo: meijian-e-commerce-logo.png
-    url: https://www.meijian.com/e-commerce
-    description: AI电商设计工具，一键生成高质量商品图
-  - title: 稿定AI
-    logo: gaoding-design-icon.png
-    url: https://www.gaoding.com/
-    description: 一站式AI设计工具集，免费AI绘图、图片转AI绘画、AI抠图消除
-  - title: 即梦
-    logo: jimeng-logo-1.png
-    url: https://jimeng.jianying.com/ai-tool/home
-    description: 抖音旗下免费AI图片创作工具
-  - title: 笔魂AI绘画
-    logo: ibihun-logo-1.png
-    url: https://ibihun.com/
-    description: 免费AI在线生图工具
-  - title: 阿贝智能
-    logo: abeiai-logo.jpg
-    url: https://abeiai.com/
-    description: 一站式AI绘本创作平台，副业变现必备
-  - title: Midjourney
-    logo: midjourney-icon.png
-    url: https://www.midjourney.com/home
-    description: AI图像和插画生成工具
-  - title: Stable Diffusion
-    logo: stability-ai-icon.png
-    url: https://stability.ai/
-    description: StabilityAI推出的文本到图像生成AI
-  - title: 炉米Lumi
-    logo: lumi-logo.png
-    url: https://artistrylab.net/
-    description: 字节跳动推出的AIGC图像创作平台
-  - title: Civitai
-    logo: civitai-icon.png
-    url: https://civitai.com/
-    description: 免费的AI图像绘画作品和模型分享平台和社区
-  - title: 堆友AI反应堆
-    logo: d-design-ai-icon.png
-    url: https://d.design/
-    description: 阿里旗下堆友推出的多风格AI绘画生成器
-  - title: 通义万相
-    logo: tongyi-aliyun-icon.png
-    url: https://tongyi.aliyun.com/wanxiang/
-    description: 阿里最新推出的AI绘画创作模型
-  - title: 秒画
-    logo: miaohua-icon.png
-    url: https://miaohua.sensetime.com/inspiration
-    description: 商汤科技推出的免费AI作画和图片生成平台
-  - title: WHEE
-    logo: whee-logo.png
-    url: https://www.whee.com/
-    description: 美图推出的AI图片和绘画创作生成平台
-  - title: LiblibAI·哩布哩布AI
-    logo: liblibai-icon.png
-    url: https://www.liblib.art/
-    description: 国内领先的AI图像创作平台和模型分享社区
-  - title: 美图AI文生图
-    logo: meitu-aigc-icon.png
-    url: https://design.meitu.com/aigc/text-to-image
-    description: 美图推出的AI文本生成图片的工具
-  - title: 奇域AI
-    logo: qiyu-ai-icon.png
-    url: https://www.qiyuai.net/
-    description: 中式审美国风AI绘画创作平台
-  - title: 可灵AI
-    logo: keling-logo.png
-    url: https://klingai.kuaishou.com/
-    description: 快手推出的AI图像和视频创作平台
-  - title: AI改图神器
-    logo: img-logosc-icon.png
-    url: https://img.logosc.cn/
-    description: AI万能图片在线编辑器
-  - title: Krea AI
-    logo: krea-ai-icon.png
-    url: https://www.krea.ai/
-    description: 实时AI图像、视频生成和编辑平台
-  - title: Photoroom
-    logo: Photoroom-logo.png
-    url: https://www.photoroom.com/zh
-    description: 在线AI图片编辑工具
-  - title: Ribbet.ai
-    logo: ribbet-ai-icon.png
-    url: https://ribbet.ai/
-    description: 免费的多功能AI图片处理工具箱
-  - title: 万相营造
-    logo: wanxiangyingzao-logo.png
-    url: https://agi.taobao.com/
-    description: 阿里旗下推出的多模态AI创意生成平台
-  - title: 悟空图像PhotoSir
-    logo: photosir-icon.png
-    url: https://www.photosir.com/
-    description: 新一代专业图像处理软件，更智能、更高效、更好用
-  - title: 360智图
-    logo: chacha-so-icon.png
-    url: https://chacha.so.com/home
-    description: 360推出的AI作图平台，支持智能抠图、智能消除、智能放大、智能配图
-  - title: 像素蛋糕
-    logo: pixcakea-logo.png
-    url: https://www.pixcakeai.com/
-    description: 像甜科技推出的AI图像后期软件
-  - title: remove.bg
-    logo: remove-bg-icon.png
-    url: https://www.remove.bg/zh
-    description: 强大的AI图片背景移除工具
-  - title: 如果相机
-    logo: logo.png
-    url: https://ifshot.com/
-    description: 仅需1张照片，快速生成AI写真照片
-  - title: ARC
-    logo: tencent-arc-icon.png
-    url: https://arc.tencent.com/zh/ai-demos/
-    description: 腾讯旗下ARC实验室推出的免费AI图片处理工具
-  - title: Cutout.Pro
-    logo: cutout-pro-icon.png
-    url: https://www.cutout.pro/
-    description: AI在线处理图片
-  - title: MagicStudio
-    logo: magicstudio-icon.png
-    url: https://magicstudio.com/zh
-    description: 高颜值AI图像处理工具
-  - title: Booltool
-    logo: booltool-icon.png
-    url: https://booltool.boolv.tech/home
-    description: 在线AI图像工具箱
-  - title: Faceswapper
-    logo: Faceswapper-logo.png
-    url: https://faceswapper.ai/
-    description: AI在线换脸工具
-  - title: ClipDrop
-    logo: clipdrop-icon.png
-    url: https://clipdrop.co/
-    description: Stability.ai推出的AI图片处理系列工具
-  - title: Vmake AI
-    logo: Vmake-AI-logo.png
-    url: https://vmake.ai/
-    description: AI在线图像和视频编辑平台，专为电商、设计提供服务
-  - title: Leonardo.ai
-    logo: leonardo-ai-icon.png
-    url: https://app.leonardo.ai/
-    description: 免费的AI绘画和图像生成工具和社区
-  - title: DeepSwapper
-    logo: DeepSwapper-logo-1.png
-    url: https://www.deepswapper.com/
-    description: 免费的在线AI换脸工具，支持图片、视频多种格式
-  - title: Kacha AI
-    logo: kacha-ai-logo.png
-    url: https://www.kacha.ai/zh
-    description: 专业的AI写真工具，媲美专业摄影
-  - title: PicTech AI
-    logo: PicTech-AI-logo.png
-    url: https://www.pictech.cc/
-    description: 免费的在线图片翻译工具，支持一键抠图
-  - title: Hotpot.ai
-    logo: hotpot-ai-icon.png
-    url: https://hotpot.ai/
-    description: AI图片图像处理和生成工具
-  - title: IconGen
-    logo: IconGen.io-logo.png
-    url: https://www.icongen.io/
-    description: 免费的icon图标AI生成器
 - taxonomy: AI图片插画生成
   icon: fas fa-image
   links:
@@ -603,10 +400,6 @@
     logo: douchu-ai-icon.png
     url: https://acgnai.art/
     description: 免费专业的AI绘画/模型/分享平台
-  - title: 文心一格
-    logo: paddlepaddle-icon.png
-    url: https://yige.baidu.com/
-    description: AI艺术和创意辅助平台
   - title: 造梦日记
     logo: printidea-art-icon.png
     url: https://zmrj.art/
@@ -631,10 +424,6 @@
     logo: ai-sohu-icon.png
     url: https://ai.sohu.com/search
     description: 搜狐最新推出的AI图片生成平台
-  - title: PixWeaver
-    logo: pixweaver-ai-icon.png
-    url: https://pw.shengshu-ai.com/
-    description: 生数科技推出的AI绘画和视频生成平台
   - title: 摩笔马良
     logo: mthreads-icon.png
     url: https://maliang.mthreads.com/
@@ -643,14 +432,6 @@
     logo: exactly-ai-icon.png
     url: https://exactly.ai/
     description: 专业的AI绘画和艺术创作平台
-  - title: 画宇宙
-    logo: creator-nolibox-icon.png
-    url: https://creator.nolibox.com/
-    description: 人工智能AI作画网站
-  - title: 6pen Art
-    logo: 6pen-art-icon.png
-    url: https://6pen.art/
-    description: 面包多团队推出的从文本描述生成绘画艺术作品
   - title: 创客贴AI画匠
     logo: chuangkit-aiart-icon.png
     url: https://aiart.chuangkit.com/landingpage
@@ -667,10 +448,6 @@
     logo: sd-163-study-icon.png
     url: https://ke.study.163.com/artWorks/painting
     description: 网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图
-  - title: Imagine with Meta
-    logo: imagine-with-meta.png
-    url: https://www.meta.ai/
-    description: Meta最新推出的在线AI图像生成器
   - title: Freepik AI Image Generator
     logo: freepik-ai-image-generator-icon.png
     url: https://www.freepik.com/ai/image-generator
@@ -679,14 +456,6 @@
     logo: stockimg-ai-icon.png
     url: https://stockimg.ai/
     description: AI生成各种类型的图像和插画
-  - title: Stable Doodle
-    logo: stable-doodle-icon.png
-    url: https://clipdrop.co/stable-doodle
-    description: StabilityAI最新推出的将手绘草图转换成精美图像的工具
-  - title: 175FUN
-    logo: 175fun-logo.png
-    url: https://175.fun/
-    description: 免费AI绘画社区，国货之光
   - title: 行者AI美术
     logo: xingzhe-ai-icon.png
     url: https://xingzheai.cn/#create
@@ -715,10 +484,6 @@
     logo: ishencai-icon.png
     url: https://www.ishencai.com/
     description: 让创意照进现实， AI生成创意插画
-  - title: 天工巧绘SkyPaint
-    logo: skypaint-icon.png
-    url: https://sky-paint.singularity-ai.com/index.html#/
-    description: 免费的AI插画绘制工具，由昆仑万维与奇点智源合作推出
 - taxonomy: AI图片背景移除
   icon: fas fa-photo-video
   links:
@@ -802,10 +567,6 @@
     logo: picsart-quicktools-icon.png
     url: https://tools.picsart.com/image/background-remover/
     description: Picsart旗下的Quicktools推出的图片背景移除工具
-  - title: Zyro AI Background Remover
-    logo: zyro-icon.png
-    url: https://zyro.com/tools/image-background-remover
-    description: Zyro推出的AI图片背景移除工具
   - title: PhotoScissors
     logo: photoscissors-icon.png
     url: https://photoscissors.com/
@@ -826,18 +587,10 @@
     logo: hotpot-ai-icon.png
     url: https://hotpot.ai/remove-background
     description: Hotpot.ai推出的图片背景移除工具
-  - title: Stylized
-    logo: stylized-icon.png
-    url: https://www.stylized.ai/
-    description: AI产品图背景替换
   - title: remove.bg
     logo: remove-bg-icon.png
     url: https://www.remove.bg/zh
     description: 强大的AI图片背景移除工具
-  - title: Booth.ai
-    logo: booth-ai-icon.png
-    url: https://www.booth.ai/
-    description: 高质量AI产品展示效果图生成
   - title: Pixelcut.ai
     logo: pixelcut-icon.png
     url: https://www.pixelcut.ai/
@@ -909,10 +662,6 @@
     logo: fotor-icon.png
     url: https://www.fotor.com/image-upscaler/
     description: Fotor推出的AI图片放大工具
-  - title: Zyro AI Image Upscaler
-    logo: zyro-icon.png
-    url: https://zyro.com/tools/image-upscaler
-    description: Zyro出品的人工智能图片放大工具
   - title: Media.io AI Image Upscaler
     logo: media-io-icon.png
     url: https://www.media.io/image-upscaler.html
@@ -956,10 +705,6 @@
     logo: meijian-e-commerce-logo.png
     url: https://www.meijian.com/mj-box/ai-pic-zoom-intro
     description: 免费的AI图片放大、变清晰工具
-  - title: Facet
-    logo: facet-ai-icon.png
-    url: https://facet.ai/
-    description: AI图片修图和优化工具
   - title: Relight
     logo: clipdrop-relight-icon-1.png
     url: https://clipdrop.co/relight
@@ -992,10 +737,6 @@
     logo: PicMa-Studio-logo.png
     url: https://picma.magictiger.ai/zh
     description: AI一键批量增强、修复、彩色化你的照片
-  - title: transpic
-    logo: transpic-ai-icon.png
-    url: https://transpic.cn/
-    description: AI图像转绘插画创作平台
   - title: Cutout.Pro老照片上色
     logo: cutout-pro-icon.png
     url: https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white
@@ -1122,10 +863,6 @@
     logo: mokker-ai-icon.png
     url: https://mokker.ai/
     description: AI产品图添加背景
-  - title: 花生图像
-    logo: hsphoto-icon.png
-    url: https://www.hsphoto.cn/
-    description: AI电商产品图生成和背景抠图工具
   - title: 图生生
     logo: tushengsheng-logo.png
     url: https://tushengsheng.com/home/
@@ -1194,7 +931,7 @@
     description: 抖音旗下免费AI绘画和视频生成工具
   - title: 混元文生视频
     logo: hunyuan-video-logo.png
-    url: https://github.com/Tencent/HunyuanVideo
+    url: https://aivideo.hunyuan.tencent.com/
     description: 腾讯推出的AI文生视频工具
   - title: KreadoAI
     logo: KreadoAI-logo.png
@@ -1258,7 +995,7 @@
     description: AI视频生成工具，支持多模态创意分镜创作服务
   - title: SkyReels
     logo: skyreels-logo1.png
-    url: https://skyreels.ai/beta
+    url: https://www.skyreels.ai/home/tools/to-video
     description: 昆仑万维推出的全球首个AI短剧创作平台
   - title: MOKI
     logo: moki-icon.png
@@ -1272,10 +1009,6 @@
     logo: Video-Ocean-logo.png
     url: https://video.luchentech.com/zh-CN
     description: 潞晨科技推出的多功能AI视频生成平台
-  - title: Flow Studio
-    logo: Flow-Studio-logo.png
-    url: https://flowgpt.com/flow-studio
-    description: AI视频生成工具，一键生成电影级质量的3分钟长视频
   - title: Vizard
     logo: Vizard.ai-logo.png
     url: https://vizard.ai/
@@ -1284,10 +1017,6 @@
     logo: ali-xunguang-icon.png
     url: https://xunguang.com/
     description: 阿里达摩院推出的全流程AI视频创作平台
-  - title: Hotshot
-    logo: Hotshot-logo.png
-    url: https://hotshot.co/
-    description: AI视频生成工具，将文本转为3秒逼真视频
   - title: Viva
     logo: viva-ai-icon.png
     url: https://vivago.ai/
@@ -1308,10 +1037,6 @@
     logo: OneStory-logo.png
     url: https://onestory.art/
     description: AI故事生成助手，创作故事和视频变得像说话一样简单
-  - title: Noisee AI
-    logo: noisee-ai-icon.png
-    url: https://noisee.ai/
-    description: 月之暗面旗下推出的AI音乐视频MV生成工具
   - title: 腾讯智影
     logo: zenvideo-qq-icon.png
     url: https://zenvideo.qq.com/
@@ -1383,10 +1108,6 @@
     logo: wanzhi01-icon.png
     url: https://www.wanzhi01.com/
     description: 零一万物推出的一站式AI文档阅读和PPT创作工作台
-  - title: 歌者AI
-    logo: gezhe-caixuan-icon.png
-    url: https://gezhe.caixuan.cc/
-    description: 彩漩PPT推出的AI PPT生成工具
   - title: ChatBA
     logo: chatba-icon.png
     url: https://www.chatba.com/
@@ -1403,10 +1124,6 @@
     logo: powerpresent-ai-icon.png
     url: https://powerpresent.ai/
     description: AI创建精美的演示稿
-  - title: 希沃白板
-    logo: xiwobaiban-logo2.png
-    url: https://easinote.seewo.com/
-    description: 专为互动教学设计的AI课件生成器
   - title: 秒出PPT
     logo: 10sppt-logo-1.png
     url: https://10sppt.com/pptx/
@@ -1482,14 +1199,6 @@
     logo: ajelix-icon.png
     url: https://ajelix.com/
     description: 处理Excel和Google Sheets表格的AI工具
-  - title: Sheet+
-    logo: sheetplus-icon.png
-    url: https://sheetplus.ai/
-    description: Excel和Google Sheets表格AI处理工具
-  - title: 轻云图
-    logo: cloud-yoo-ai-icon.png
-    url: https://cloud.yoo-ai.com/
-    description: 必优科技推出的AI一键生成可视化云图工具
   - title: 北极九章
     logo: 北极九章-logo.png
     url: https://datarc.cn/
@@ -1506,18 +1215,10 @@
     logo: rows-icon.png
     url: https://rows.com/
     description: 集成了AI功能的在线表格处理工具
-  - title: Excelly-AI
-    logo: excelly-ai-icon.png
-    url: https://excelly-ai.io/index.html
-    description: 将文本转换成Excel或Google Sheets公式
   - title: SheetGod
     logo: boloforms-icon.png
     url: https://www.boloforms.com/sheetgod/
     description: BoloForms推出的AI Excel公式生成工具
-  - title: Excel Formularizer
-    logo: excel-formularizer-icon.png
-    url: https://excelformularizer.com/
-    description: AI将文本输入转换为Excel公式处理
 - taxonomy: AI文档工具
   icon: fas fa-file
   links:
@@ -1581,17 +1282,13 @@
     logo: tongyi-aliyun-icon.png
     url: https://tongyi.aliyun.com/zhiwen#/
     description: 基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档
-  - title: 字语智能
-    logo: getgetai-icon.png
-    url: https://getgetai.com/
-    description: 一站式智能Office内容创作平台
   - title: 星火文档问答
     logo: xinghuo-icon.png
     url: https://chatdoc.xfyun.cn/
     description: 基于讯飞星火大模型的AI文档和知识库问答助手
   - title: PMAI
     logo: pmai-icon.png
-    url: ' https://www.pm-ai.cn/'
+    url: https://www.pm-ai.cn/
     description: 面向产品经理的AI助手
   - title: PDF.ai
     logo: pdf-ai-icon.png
@@ -1625,10 +1322,6 @@
     logo: chatdoc-icon.png
     url: http://chatdoc.com
     description: 基于ChatGPT的文档阅读、提取、总结、摘要的工具
-  - title: PandaGPT
-    logo: pandagpt-icon.png
-    url: https://www.pandagpt.io/
-    description: AI文档要点总结工具
   - title: Rossum.ai
     logo: rossum-ai-icon.png
     url: https://rossum.ai/
@@ -1686,7 +1379,7 @@
     description: Xmind AI思维导图助手
   - title: 妙办AI画图工具
     logo: imiaoban-ai-icon.png
-    url: https://imiaoban.com/work/AIht
+    url: https://imiaoban.com/work/swdt
     description: AI免费一键生成流程图、思维导图
   - title: GitMind思乎
     logo: gitmind-icon.png
@@ -1696,10 +1389,6 @@
     logo: EdrawMaxAI-logo.png
     url: https://www.edrawsoft.cn/edrawmax/ai/
     description: 专业的办公绘图软件，轻松绘制图表和图形
-  - title: Whimsical
-    logo: ezgif-5-22ff7a7f5f.gif
-    url: https://whimsical.com/ai-mind-maps
-    description: Whimsical推出的AI思维导图工具
   - title: AmyMind
     logo: amymind-icon.png
     url: https://amymind.com/
@@ -1763,10 +1452,6 @@
     logo: noty-ai-icon.png
     url: https://noty.ai/
     description: ChatGPT驱动的AI会议转录工具
-  - title: Airgram
-    logo: airgram-icon.png
-    url: https://www.airgram.io
-    description: 自动会议笔记和总结的AI助手
 - taxonomy: AI效率提升
   icon: fas fa-arrow-up
   links:
@@ -1830,10 +1515,6 @@
     logo: NotebookLM-logo.png
     url: https://notebooklm.google/
     description: 谷歌推出的AI笔记应用，5分钟生成一段对话播客
-  - title: 小微助手
-    logo: xiaowei-logo.png
-    url: https://xiaowei.weixin.qq.com/next
-    description: 微信推出的桌面端AI效率助手工具
   - title: 影刀AI Power
     logo: yingdao-ai-power-logo.png
     url: https://www.yingdao.com/ai-power/
@@ -1945,10 +1626,6 @@
     logo: canva-icon.png
     url: https://www.canva.cn/magic/
     description: Canva可画推出的一站式AI创作套件
-  - title: Microsoft Designer
-    logo: microsoft-designer-icon.png
-    url: https://designer.microsoft.com/
-    description: 微软推出的在线设计海报和宣传图工具
   - title: Onlook
     logo: Onlook-logo.png
     url: https://onlook.com/
@@ -1973,14 +1650,6 @@
     logo: ibihun-logo-1.png
     url: https://ibihun.com/
     description: AI设计工具，支持AI抠图、消除、无损放大
-  - title: FigJam AI
-    logo: figma-icon.png
-    url: https://www.figma.com/figjam/ai/
-    description: Figma推出的AI白板协作设计工具
-  - title: 鹿班
-    logo: luban-icon.png
-    url: https://luban.aliyun.com/
-    description: 阿里推出的智能设计商品图和海报的平台
   - title: Magic Design
     logo: canva-icon.png
     url: https://www.canva.com/magic-design/
@@ -2017,10 +1686,6 @@
     logo: pictographic-icon.png
     url: https://pictographic.io/
     description: AI插图资源库和生成平台
-  - title: Fable Prism
-    logo: fable-icon.png
-    url: https://www.fable.app/prism
-    description: AI动效设计和动画效果制作工具
   - title: Wegic
     logo: wegic-icon.png
     url: https://wegic.ai/
@@ -2057,10 +1722,6 @@
     logo: ilus-ai-icon.png
     url: https://ilus.ai/
     description: AI插画插图生成工具
-  - title: 酷家乐AI
-    logo: kujiale-icon.png
-    url: https://www.kujiale.cn/activities/AI-kujiale
-    description: 功能强大的AI家居设计软件
   - title: Pixso AI
     logo: pixso-ai-icon.jpg
     url: https://pixso.cn/
@@ -2148,10 +1809,6 @@
     logo: sourcegraph-cody-icon.png
     url: https://about.sourcegraph.com/cody
     description: Sourcegraph推出的免费AI编程工具
-  - title: DevChat
-    logo: devchat-icon.png
-    url: https://www.devchat.ai/zh
-    description: 开源的支持多款大模型的AI编程助手
   - title: CodiumAI
     logo: codiumai-icon.png
     url: https://www.codium.ai/
@@ -2172,10 +1829,6 @@
     logo: project-idx-icon.png
     url: https://idx.dev/
     description: 谷歌推出的AI云端开发和代码编辑器
-  - title: Sketch2Code
-    logo: sketch2code-icon.png
-    url: https://sketch2code.azurewebsites.net/
-    description: 微软AI Lab推出的将手绘草图转换成HTML代码工具
   - title: CodeFuse
     logo: codefuse-icon.png
     url: https://codefuse.alipay.com/
@@ -2263,10 +1916,6 @@
     logo: SearchGPT-logo.png
     url: https://openai.com/index/searchgpt-prototype/
     description: OpenAI最新推出的AI搜索引擎，内测开放
-  - title: 点点
-    logo: diandian-logo.png
-    url: https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9/id6529536122
-    description: 小红书推出的 AI 搜索应用，主打生活场景
   - title: Flowith
     logo: flowith-icon.png
     url: https://flowith.net/invitation
@@ -2339,18 +1988,10 @@
     logo: dexa-ai-icon.png
     url: https://dexa.ai/
     description: AI播客搜索工具
-  - title: CuspAI
-    logo: CuspAI-website.png
-    url: https://www.cusp.ai/
-    description: 剑桥大学推出的材料学专业AI搜索工具
   - title: 开搜AI
     logo: kaisouai-icon.png
     url: https://kaisouai.com/
     description: 面向大众的免费AI问答搜索引擎
-  - title: Adot
-    logo: Adot-website02.png
-    url: https://www.adot.tech/
-    description: 一个由AI驱动的 Web3 搜索引擎
   - title: XAnswer
     logo: XAnswer-logo.png
     url: https://www.xanswer.com/
@@ -2387,10 +2028,6 @@
     logo: komo-search-icon.png
     url: https://komo.ai/
     description: 简洁直观的AI搜索引擎
-  - title: Searcholic
-    logo: searcholic-icon.png
-    url: https://searcholic.com/
-    description: AI驱动的电子书和文档搜索引擎
   - title: Andi
     logo: andi-search-icon.png
     url: https://andisearch.com/
@@ -2403,10 +2040,6 @@
     logo: thinkany-icon.png
     url: https://thinkany.ai/zh
     description: 新时代的AI搜索引擎
-  - title: Miku
-    logo: miku-icon.png
-    url: https://www.hellomiku.com/
-    description: 快速精准的AI搜索引擎
   - title: Qdrant
     logo: Qdrant-logo.png
     url: https://qdrant.tech/
@@ -2613,10 +2246,6 @@
     logo: 8581725368494_.pic_.jpg
     url: https://tbox.alipay.com/
     description: 蚂蚁集团推出的一站式 AI 原生应用开发平台
-  - title: BigModel
-    logo: BigModel-logo.png
-    url: https://bigmodel.cn/
-    description: 智谱推出的大模型开发平台
   - title: 智谱清流
     logo: qingliu-logo.png
     url: https://bigmodel.cn/agent
@@ -2625,10 +2254,6 @@
     logo: baidu-yiyan-icon.png
     url: https://agents.baidu.com/
     description: 百度推出的智能体构建平台
-  - title: SkyAgents
-    logo: tiangong-ai-search-icon.png
-    url: https://model-platform-skyagents.tiangong.cn/home/agent
-    description: 昆仑万维推出的 AI Agent 开发平台
   - title: 言犀智能体平台
     logo: yanxi-website.png
     url: https://yanxi.jd.com/
@@ -2683,7 +2308,7 @@
     description: 免费开源的数据标注工具
   - title: Vercel AI SDK
     logo: vercel-icon.png
-    url: https://sdk.vercel.ai/docs
+    url: https://sdk.vercel.ai/
     description: Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架
   - title: Keras
     logo: keras-icon.png
@@ -2939,10 +2564,6 @@
     logo: writefull-icon.png
     url: https://x.writefull.com/gpt-detector
     description: 在线检查文本是否由GPT-3或ChatGPT生成
-  - title: Mitata AI
-    logo: Mitata-AI-logo.png
-    url: https://www.copyleaks.top/login
-    description: 专业的AI文章检测工具，能识别文章是否由AI生成
   - title: AI Content Detector
     logo: writer-icon.png
     url: https://writer.com/ai-content-detector/
@@ -2959,21 +2580,9 @@
     logo: winston-ai-icon.png
     url: https://gowinston.ai/
     description: 强大的AI内容检测解决方案
-  - title: CheckforAI
-    logo: checkforai-icon.png
-    url: https://checkforai.com/
-    description: 免费在线检测AI内容
 - taxonomy: AI语言翻译
   icon: fas fa-language
   links:
-  - title: 沉浸式翻译
-    logo: immersivetranslate-logo.jpg
-    url: https://immersivetranslate.com/zh-Hans/
-    description: 双语对照的网页翻译插件，完全免费 口碑炸裂！
-  - title: 会译
-    logo: huiyi-logo.png
-    url: https://huiyiai.net/hy_api/activity/invite
-    description: 沉浸对照式AI翻译，支持100+语言
   - title: 腾讯交互翻译
     logo: qqtransmart-website-2.png
     url: https://transmart.qq.com/
@@ -2982,6 +2591,14 @@
     logo: DeepTranslate-logo-1.png
     url: https://deeptranslate.ai/zh-CN
     description: 免费的AI双语翻译器，支持142+种语言
+  - title: 沉浸式翻译
+    logo: immersivetranslate-logo.jpg
+    url: https://immersivetranslate.com/zh-Hans/
+    description: 双语对照的网页翻译插件，完全免费 口碑炸裂！
+  - title: 会译
+    logo: huiyi-logo.png
+    url: https://huiyiai.net/hy_api/activity/invite
+    description: 沉浸对照式AI翻译，支持100+语言
   - title: Google翻译
     logo: google-translate-icon.png
     url: https://translate.google.com/
@@ -3038,10 +2655,6 @@
     logo: tongchuan-baidu-icon.png
     url: https://fanyi.baidu.com/appdownload/download.html
     description: 中英文音视频同传字幕工具
-  - title: 金山快译
-    logo: wps-kuaiyi-icon.png
-    url: https://kuaiyi.wps.cn/txt-translate
-    description: 金山WPS推出的在线翻译平台
 - taxonomy: AI法律助手
   icon: fas fa-balance-scale
   links:
@@ -3057,10 +2670,6 @@
     logo: baidu-ai-law-icon.png
     url: https://ailegal.baidu.com/
     description: 百度推出的免费AI法律助手
-  - title: ChatLaw
-    logo: chatlaw-icon.png
-    url: https://chatlaw.cloud/lawchat/#/
-    description: 北大开源的法律大模型和助手
   - title: 得理法搜
     logo: delisearch-icon.png
     url: https://www.delilegal.com/search
@@ -3083,95 +2692,63 @@
   - title: 提示工程指南
     logo: prompt-engineering-guide-icon.png
     url: https://www.promptingguide.ai/zh
-    description: 提示工程指南（Prompt Engine...
-  - title: PromptPerfect
-    logo: promptperfect-icon.png
-    url: https://promptperfect.jinaai.cn/
-    description: PromptPerfect 是一款专业好...
-  - title: FlowGPT
-    logo: flowgpt-icon.png
-    url: https://flowgpt.com/
-    description: .nan
+    description: 提示工程指南
   - title: Stable Diffusion Prompt Book
     logo: openart-ai-icon.png
     url: https://openart.ai/promptbook
-    description: .nan
+    description: Stable Diffusion Prompt Book
   - title: PromptHero
     logo: prompt-hero-icon.png
     url: https://prompthero.com/
-    description: .nan
-  - title: ClickPrompt
-    logo: clickprompt-icon.png
-    url: https://www.clickprompt.org/zh-CN/
-    description: .nan
+    description: 通过Stable Diffusion，Midjourney等模型进行搜索数百万的AI艺术图像
   - title: AI Prompt Generator
     logo: AI-Prompt-Generator-logo.png
     url: https://www.aipromptgenerator.net/zh
-    description: AI Prompt Generator是什么 A...
+    description: AI提示生成器
   - title: AI Short
     logo: AI-Short-logo.png
     url: https://www.aishort.top/
-    description: AI Short是什么 AI Short是一...
+    description: 让生产力加倍的 AI 快捷指令
   - title: LangGPT
     logo: LangGPT-logo1.png
-    url: https://github.com/langgptai/LangGPT
-    description: LangGPT是什么 LangGPT是一种...
+    url: http://feishu.langgpt.ai/
+    description: 人人都能写出高质量提示词
   - title: Generrated
     logo: generrated-icon.png
     url: https://generrated.com/
-    description: 当你第一次开始使用DALL•E 2...
+    description: AI提示词生成器
   - title: PublicPrompts
     logo: public-prompts-icon.png
     url: https://publicprompts.art/
-    description: PublicPrompts是什么 PublicP...
-  - title: Snack Prompt
-    logo: snack-prompt-icon.png
-    url: https://snackprompt.com/
-    description: 输入正确的提示词，可以让Cha...
+    description: 公用的高质量提示词
   - title: AIPRM
     logo: aiprm-icon.png
     url: https://www.aiprm.com/
-    description: .nan
-  - title: 绘AI
-    logo: ai016-icon.png
-    url: https://www.ai016.com/
-    description: 绘AI致力于探索和创造一种全...
+    description: Your Cheat Code for AI
   - title: MJ Prompt Tool
     logo: noonshot-icon.png
     url: https://prompt.noonshot.com/
-    description: .nan
-  - title: Visual Prompt Builder
-    logo: visual-prompt-builer-icon.png
-    url: https://tools.saxifrage.xyz/prompt
-    description: .nan
+    description: MidJourney提示词生成器
   - title: ChatGPT Prompt Genius
     logo: chatgpt-prompt-genius-icon.png
-    url: https://github.com/benf2004/ChatGPT-Prompt-Genius
-    description: .nan
+    url: https://www.aipromptgenius.app/
+    description: 策划AI提示词的自定义库
   - title: PromptBase
     logo: promptbase-icon.png
     url: https://promptbase.com/
-    description: .nan
-  - title: PromptVine
-    logo: promptvine-icon.png
-    url: https://promptvine.com/
-    description: .nan
+    description: AI提示词市场
   - title: Awesome ChatGPT Prompts
     logo: awesome-chatgpt-prompt-icon.png
     url: https://prompts.chat/
-    description: .nan
+    description: 世界上第一个也是最著名的提示词目录
   - title: Learning Prompt
     logo: learning-prompt-icon.png
     url: https://learningprompt.wiki/
-    description: .nan
+    description: 免费提示词工程在线课程
   - title: ChatGPT Shortcut
     logo: chatgpt-shortcut-icon.png
     url: https://www.aishort.top/
-    description: ChatGPT Shortcut是国内开发...
-  - title: 词魂
-    logo: icihun-icon.png
-    url: https://icihun.com/
-    description: 词魂是一个AIGC精品提示词库...
+    description: 高效 AI 快捷指令平台 | 提示词管理与分享，生产力倍增
 - taxonomy: AI模型评测
   icon: fas fa-rocket
   links:
@@ -3262,10 +2839,6 @@
     logo: machinelearningmastery-icon.png
     url: https://machinelearningmastery.com/start-here/
     description: 免费在线学习机器学习，从基础到高级
-  - title: Generative AI for Beginners
-    logo: genai-for-beginners-icon.png
-    url: https://microsoft.github.io/generative-ai-for-beginners/#/translation/cn/
-    description: 微软推出的面向初学者的免费生成式人工智能课程
   - title: ML for Beginners
     logo: ml-for-beginners-icon.png
     url: https://microsoft.github.io/ML-For-Beginners/
@@ -3314,7 +2887,3 @@
     logo: showmeai-icon.png
     url: https://www.showmeai.tech/
     description: 人工智能领域的资料库和学习社区
-  - title: txyz
-    logo: txyz-ai-icon.png
-    url: https://www.txyz.ai/
-    description: AI文献阅读和学术研究辅助平台
