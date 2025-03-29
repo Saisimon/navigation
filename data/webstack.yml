@@ -11,6 +11,10 @@
     logo: deepseek-chat-icon.png
     url: https://www.deepseek.com/
     description: 幻方量化旗下深度求索推出的开源大模型和聊天助手
+  - title: SiliconFlow
+    logo: SILICONFLOW-logo.png
+    url: https://cloud.siliconflow.cn/i/hHhdKr7M
+    description: 生成式AI计算基础设施平台
   - title: WPS AI
     logo: wps-ai-white-icon.png
     url: https://ai.wps.cn/
@@ -2583,7 +2587,7 @@
     description: 海量AI智能体免费用，已接入DeepSeek满血版
   - title: SiliconFlow
     logo: SILICONFLOW-logo.png
-    url: https://siliconflow.cn/zh-cn/
+    url: https://cloud.siliconflow.cn/i/hHhdKr7M
     description: 生成式AI计算基础设施平台
   - title: Zion
     logo: Zion-logo.png
