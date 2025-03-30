@@ -22,7 +22,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     fancybox      = true                                        # 使用 Fancybox 实现图片灯箱/放大功能
 
 [params.seo]    
-    baiduhmid       = '87dc8d6d3d382ce16435e844f6eb9d9c'	# 百度统计 hm.src 的 ID
+    baiduhmid       = '88fdd91677c6bf9d7b032f7d91845010'	# 百度统计 hm.src 的 ID
     baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
