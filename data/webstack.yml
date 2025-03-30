@@ -15,6 +15,18 @@
     logo: SILICONFLOW-logo.png
     url: https://cloud.siliconflow.cn/i/hHhdKr7M
     description: 生成式AI计算基础设施平台
+  - title: Chatbox AI
+    logo: chatboxai-logo.png
+    url: https://chatboxai.app/zh
+    description: 开源的AI客户端助手，支持多种主流AI模型
+  - title: Xmind
+    logo: xmind-icon.png
+    url: https://xmind.cn/
+    description: Xmind 思维导图制作工具
+  - title: draw.io
+    logo: drawio.png
+    url: https://www.drawio.com/
+    description: 一个用于构建图表应用程序的技术堆栈，也是世界上使用最广泛的基于浏览器的最终用户图表软件。
   - title: WPS AI
     logo: wps-ai-white-icon.png
     url: https://ai.wps.cn/
@@ -27,10 +39,6 @@
     logo: processon-icon.png
     url: https://www.processon.com/
     description: 在线AI流程图和思维导图制作工具
-  - title: Xmind
-    logo: xmind-icon.png
-    url: https://xmind.cn/
-    description: Xmind 思维导图制作工具
   - title: 纳米搜索
     logo: namisousuo-logo.png
     url: https://n.cn/
@@ -51,10 +59,6 @@
     logo: douhuiai-logo-1.png
     url: https://www.douhuiai.com/
     description: AI绘图设计平台，一键生成720°VR全景图
-  - title: Chatbox AI
-    logo: chatboxai-logo.png
-    url: https://chatboxai.app/zh
-    description: 开源的AI客户端助手，支持多种主流AI模型
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
