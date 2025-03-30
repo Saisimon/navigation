@@ -852,11 +852,45 @@
         parent.find(".search-key").focus();
     });
     $(document).on("submit", ".super-search-fm", function() {
+        var isZhannei = $(this).find(".search-key").attr('zhannei')!=''?true:false;
         var key = encodeURIComponent($(this).find(".search-key").val())
-        if(key == "")
+        if(key == "") {
+            if (isZhannei) {
+                $('.url-card').each(function() {
+                    $(this).show();
+                });
+                $('.d-flex.flex-fill').each(function() {
+                    $(this).find('h4').show();
+                    $(this).next('.row').next('br').show();
+                });
+            }
             return false;
-        else{
-            window.open( $(this).attr("action") + key);
+        } else {
+            if (isZhannei) {
+                const searchTerm = $(this).find(".search-key").val().toLowerCase();
+                $('.url-card').each(function() {
+                    const cardText = $(this).text().toLowerCase();
+                    if (cardText.includes(searchTerm)) {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+                $('.d-flex.flex-fill').each(function() {
+                    const row = $(this).next('.row');
+                    const visibleCards = row.find('.url-card:visible');
+        
+                    if (visibleCards.length === 0) {
+                        $(this).find('h4').hide();
+                        row.next('br').hide();
+                    } else {
+                        $(this).find('h4').show();
+                        row.next('br').show();
+                    }
+                });
+            } else {
+                window.open( $(this).attr("action") + key);
+            }
             return false;
         }
     });
@@ -931,6 +965,15 @@
     $(document).on("blur", ".smart-tips.search-key", function() {
         parent = '';
         $(".search-smart-tips").delay(150).slideUp(200)
+        if (!$(this).val() && isZhannei) {
+            $('.url-card').each(function() {
+                $(this).show();
+            });
+            $('.d-flex.flex-fill').each(function() {
+                $(this).find('h4').show();
+                $(this).next('.row').next('br').show();
+            });
+        }
     });
     $(document).on("focus", ".smart-tips.search-key", function() {
         isZhannei = $(this).attr('zhannei')!=''?true:false;
