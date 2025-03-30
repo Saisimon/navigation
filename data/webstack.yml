@@ -27,10 +27,14 @@
     logo: processon-icon.png
     url: https://www.processon.com/
     description: 在线AI流程图和思维导图制作工具
-  - title: Xmind Copilot
+  - title: Xmind
     logo: xmind-icon.png
-    url: https://xmind.ai/
-    description: Xmind AI思维导图助手
+    url: https://xmind.cn/
+    description: Xmind 思维导图制作工具
+  - title: 纳米搜索
+    logo: namisousuo-logo.png
+    url: https://n.cn/
+    description: 360公司推出的AI搜索引擎
   - title: 通义听悟
     logo: tingwu-icon.png
     url: https://tingwu.aliyun.com/
@@ -1931,7 +1935,7 @@
   - title: 纳米搜索
     logo: namisousuo-logo.png
     url: https://n.cn/
-    description: 360公司推出的AI搜索应用，一切皆可生成视频
+    description: 360公司推出的AI搜索引擎
   - title: 百度AI探索版
     logo: baidu-zuojia-icon.png
     url: https://think.baidu.com/
