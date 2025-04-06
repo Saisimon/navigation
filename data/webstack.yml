@@ -27,10 +27,6 @@
     logo: drawio.png
     url: https://www.drawio.com/
     description: 一个用于构建图表应用程序的技术堆栈，也是世界上使用最广泛的基于浏览器的最终用户图表软件。
-  - title: WPS AI
-    logo: wps-ai-white-icon.png
-    url: https://ai.wps.cn/
-    description: WPS推出的AI办公助手，已免费开放
   - title: Kimi智能助手
     logo: kimi-ai-logo.png
     url: https://kimi.moonshot.cn/
@@ -39,30 +35,22 @@
     logo: namisousuo-logo.png
     url: https://n.cn/
     description: 360公司推出的AI搜索引擎
-  - title: OfficeAI
-    logo: office-ai.png
-    url: https://www.office-ai.cn/
-    description: OfficeAI 助手 是一款免费的智能AI办公工具软件，专为 Microsoft Office 和 WPS 用户打造。
-  - title: ProcessOn
-    logo: processon-icon.png
-    url: https://www.processon.com/
-    description: 在线AI流程图和思维导图制作工具
-  - title: 通义听悟
-    logo: tingwu-icon.png
-    url: https://tingwu.aliyun.com/
-    description: 阿里推出的AI会议转录工具，万语千言，心领神悟
-  - title: 飞书妙记
-    logo: feishu-minutes-icon.png
-    url: https://www.feishu.cn/product/minutes
-    description: 飞书智能会议纪要和快捷语音识别转文字
   - title: 即梦
     logo: jimeng-logo-1.png
     url: https://jimeng.jianying.com/s/C0IOKgtAXKQ/?t=-4
     description: 抖音旗下免费AI图片创作工具
-  - title: 豆绘AI
-    logo: douhuiai-logo-1.png
-    url: https://www.douhuiai.com/
-    description: AI绘图设计平台，一键生成720°VR全景图
+  - title: 豆包
+    logo: doubao-icon.png
+    url: https://www.doubao.com/chat/
+    description: 字节跳动推出的免费AI智能助手
+  - title: ProcessOn
+    logo: processon-icon.png
+    url: https://www.processon.com/
+    description: 在线AI流程图和思维导图制作工具
+  - title: OfficeAI
+    logo: office-ai.png
+    url: https://www.office-ai.cn/
+    description: OfficeAI 助手 是一款免费的智能AI办公工具软件，专为 Microsoft Office 和 WPS 用户打造。
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
