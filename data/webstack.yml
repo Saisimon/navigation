@@ -51,6 +51,14 @@
     logo: office-ai.png
     url: https://www.office-ai.cn/
     description: OfficeAI 助手 是一款免费的智能AI办公工具软件，专为 Microsoft Office 和 WPS 用户打造。
+  - title: 可灵AI
+    logo: kling-ai-icon.png
+    url: https://app.klingai.com/cn/
+    description: 快手推出的视频生成大模型，可生成2分钟的视频
+  - title: 海螺AI
+    logo: hailuo-ai-logo.png
+    url: https://hailuoai.com/video
+    description: 创新的AI视频生成器和提示词工具，可以将您的想法转化为精美的AI视频。
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
