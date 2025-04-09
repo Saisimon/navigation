@@ -59,6 +59,10 @@
     logo: hailuo-ai-logo.png
     url: https://hailuoai.com/video
     description: 创新的AI视频生成器和提示词工具，可以将您的想法转化为精美的AI视频。
+  - title: 海绵音乐
+    logo: haimianyinyue-logo.png
+    url: https://www.haimian.com/
+    description: 字节跳动推出的免费AI音乐创作和发现平台
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
