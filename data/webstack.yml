@@ -63,6 +63,10 @@
     logo: haimianyinyue-logo.png
     url: https://www.haimian.com/
     description: 字节跳动推出的免费AI音乐创作和发现平台
+  - title: Coze
+    logo: coze-ai-icon.png
+    url: https://www.coze.com/
+    description: 海量AI智能体免费用，已接入DeepSeek满血版
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
