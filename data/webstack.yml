@@ -67,6 +67,10 @@
     logo: coze-ai-icon.png
     url: https://www.coze.cn/
     description: 海量AI智能体免费用，已接入DeepSeek满血版
+  - title: BibiGPT
+    logo: bibigpt-icon.png
+    url: https://bibigpt.co/r/KMJB
+    description: BibiGPT 一键总结 B 站、YouTube、播客、本地视频
 - taxonomy: AI对话聊天
   icon: fab fa-facebook-messenger
   links:
@@ -1599,6 +1603,10 @@
     logo: YOO-logo.png
     url: https://www.yoojober.com/
     description: 必优科技推出的AI简历生成工具
+  - title: BibiGPT
+    logo: bibigpt-icon.png
+    url: https://bibigpt.co/r/KMJB
+    description: BibiGPT 一键总结 B 站、YouTube、播客、本地视频
 - taxonomy: AI设计工具
   icon: fas fa-palette
   links:
